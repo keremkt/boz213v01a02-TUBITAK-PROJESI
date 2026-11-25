@@ -14,7 +14,6 @@ Noti adlı kuşu **kendi sesinle** uçurursun: piyano bir nota çalar, sen aynı
 
 ## 🎬 Tanıtım Videosu
 
-[![DoReFly tanıtım videosu](https://youtu.be/yehgcbm6N9M)
 
 ▶️ **İzle:** https://youtu.be/yehgcbm6N9M
 
@@ -41,17 +40,17 @@ Solfej, müzikal işitme, okuma ve düşünme becerilerinin temelidir. Ancak kal
 ### Macera Haritası
 Dört seviye bir harita üzerinde sıralanır. Her seviye bir öncekinin başarıyla tamamlanmasıyla açılır.
 
-![Macera Haritası](docs/ekran_goruntuleri/03_harita.png)
+![Macera Haritası](03_harita.png)
 
 ### Oynanış: Aralık Seviyesi
 Soldaki renkli cetvel notaları gösterir. Kapıdaki hedef notayı söyleyip tuttuğunda halka dolar ve kuş geçer. `H` tuşu hedef notayı tekrar dinletir.
 
-![Aralık oynanışı](docs/ekran_goruntuleri/12_aralik_oynanis.png)
+![Aralık oynanışı](12_aralik_oynanis.png)
 
 ### Şarkı Stüdyosu
 Yüklenen şarkının zorluk puanı, ezgi şekli, cümle sınırları ve zor atlayışları otomatik çıkarılır.
 
-![Şarkı Stüdyosu](docs/ekran_goruntuleri/25_sarki_detay.png)
+![Şarkı Stüdyosu](25_sarki_detay.png)
 
 ---
 
