@@ -14,7 +14,7 @@ Noti adlı kuşu **kendi sesinle** uçurursun: piyano bir nota çalar, sen aynı
 
 ## 🎬 Tanıtım Videosu
 
-[![DoReFly tanıtım videosu](https://img.youtube.com/vi/yehgcbm6N9M/maxresdefault.jpg)](https://youtu.be/yehgcbm6N9M)
+[![DoReFly tanıtım videosu](https://youtu.be/yehgcbm6N9M)
 
 ▶️ **İzle:** https://youtu.be/yehgcbm6N9M
 
